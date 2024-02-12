@@ -2,11 +2,14 @@
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jana-dev.github.io/nlw-expert-notes",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist",
+    "predeploy": "npm run build"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.0.5",
@@ -22,6 +25,7 @@
     "@types/react-dom": "^18.2.17",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.17",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.34",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.2.2",
