@@ -17,11 +17,12 @@ Escolhi seguir com a trilha React.js para conhecer novas bibliotecas e aperfeiç
 
 ## Funcionalidades Principais
 
-- Adicione novas notas, elas serão salvas utilizando o Local Storage do seu navegador.
-- As notas podem ser criadas digitando em texto ou gravadas com seu microfone (obs: use Safari ou Chrome para funcionar a API Speech Recognition).
+- Adicione novas notas, elas serão salvas utilizando o Local Storage do seu navegador
+- As notas podem ser criadas digitando em texto ou gravadas com seu microfone (obs: use Safari ou Chrome para funcionar a API Speech Recognition)
 - As notas ficam salvas mostrando há quanto tempo foram criadas. (caso você não resete seu Local Storage)
-- Você pode excluir as notas salvas.
-- A aplicação é responsiva, sendo utilizável em qualquer tamanho de dispositivo.
+- Pesquise suas notas utilizando palavras-chave
+- Você pode excluir as notas salvas
+- A aplicação é responsiva, sendo utilizável em qualquer tamanho de dispositivo
 
 ## Acesse aqui:
 
