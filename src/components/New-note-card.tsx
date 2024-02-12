@@ -31,6 +31,7 @@ export function NewNoteCard({ onNoteCreated }: NewNoteCardProps) {
         event.preventDefault()
 
         if (content === ''){
+            toast.error('É necessário preencher um valor')
             return
         }
         onNoteCreated(content)
