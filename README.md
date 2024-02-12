@@ -23,6 +23,6 @@ Escolhi seguir com a trilha React.js para conhecer novas bibliotecas e aperfeiç
 - Você pode excluir as notas salvas.
 - A aplicação é responsiva, sendo utilizável em qualquer tamanho de dispositivo.
 
-##Acesse aqui:
+## Acesse aqui:
 
 https://jana-dev.github.io/nlw-expert-notes/
